@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dissyskcl.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://dissyskcl.github.io/publication-type/2/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dissyskcl.github.io/blog/</loc>
+    <loc>https://dissyskcl.github.io/tag/graph-theory/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/tag/inference/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/tag/learning-and-inference/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/tag/optimization/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/publication_types/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/publication/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/tags/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/publication/gs2021-1/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/publication/gs2021-2/</loc>
+    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dissyskcl.github.io/categories/</loc>
@@ -14,13 +44,10 @@
     <loc>https://dissyskcl.github.io/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dissyskcl.github.io/</loc>
+    <loc>https://dissyskcl.github.io/news/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dissyskcl.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dissyskcl.github.io/blog/getting-started/</loc>
+    <loc>https://dissyskcl.github.io/news/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dissyskcl.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
@@ -35,35 +62,23 @@
     <loc>https://dissyskcl.github.io/talks/</loc>
     <lastmod>2020-07-24T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dissyskcl.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://dissyskcl.github.io/talks/pier122017/</loc>
+    <lastmod>2017-04-11T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dissyskcl.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://dissyskcl.github.io/tag/random-matrix-theory/</loc>
+    <lastmod>2017-04-11T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dissyskcl.github.io/tag/deep-learning/</loc>
+    <loc>https://dissyskcl.github.io/tag/inference-and-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dissyskcl.github.io/project/rmt/</loc>
+    <loc>https://dissyskcl.github.io/project/oiml/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dissyskcl.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dissyskcl.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dissyskcl.github.io/publication/example1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dissyskcl.github.io/publication/example2/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dissyskcl.github.io/publication_types/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dissyskcl.github.io/publication/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://dissyskcl.github.io/project/rmt/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dissyskcl.github.io/admin/</loc>
   </url>

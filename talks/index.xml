@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent Talks | KCL Dysordered Systems</title>
+    <title>Recent Talks &amp; Lectures | KCL Dysordered Systems</title>
     <link>https://dissyskcl.github.io/talks/</link>
       <atom:link href="https://dissyskcl.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent Talks</description>
+    <description>Recent Talks &amp; Lectures</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Jul 2020 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dissyskcl.github.io/media/icon_hu7f2426718c726843532e5bf53de698ef_1775364_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent Talks</title>
+      <title>Recent Talks &amp; Lectures</title>
       <link>https://dissyskcl.github.io/talks/</link>
     </image>
     
@@ -22,8 +22,31 @@
   &lt;iframe src=&#34;https://www.youtube.com/embed/3OOK651z8jc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;br&gt;
 &lt;em&gt;I will discuss some results, both old and more recent, on &amp;lsquo;non-orthogonality overlap matrix&amp;rsquo; between left and right eigenvectors of non-normal random matrices. Motivations range from understanding eigenvalue dynamics under matrix perturbations to relevance for random matrix models describing chaotic wave scattering.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Random matrices: Theory and Practice</title>
+      <link>https://dissyskcl.github.io/talks/pier122017/</link>
+      <pubDate>Tue, 11 Apr 2017 09:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/talks/pier122017/</guid>
+      <description>&lt;p&gt;A brief course on random matrix theory given at ICTP Trieste, from the theoretical foundations to applications to complex systems.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Je4bU3g_QGk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ods4H8gOJlY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/te6V9OvtGww&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
 </description>
     </item>
     
