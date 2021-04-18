@@ -5,12 +5,36 @@
     <link>https://dissyskcl.github.io/</link>
       <atom:link href="https://dissyskcl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>KCL Dysordered Systems</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dissyskcl.github.io/media/icon_hu7f2426718c726843532e5bf53de698ef_1775364_512x512_fill_lanczos_center_2.png</url>
       <title>KCL Dysordered Systems</title>
       <link>https://dissyskcl.github.io/</link>
     </image>
+    
+    <item>
+      <title>Quantitative and Digital Law Lab</title>
+      <link>https://dissyskcl.github.io/project/ql/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/project/ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex System Modelling MSc</title>
+      <link>https://dissyskcl.github.io/education/master/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/education/master/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Matrix Theory and Networks Workshop</title>
+      <link>https://dissyskcl.github.io/news/rmtn2021/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/news/rmtn2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Criticality and conformality in the random dimer model</title>
@@ -41,6 +65,22 @@
       <link>https://dissyskcl.github.io/publication/robson-2021/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://dissyskcl.github.io/publication/robson-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apply to the KCL MPhil/PhD Mathematics Program</title>
+      <link>https://dissyskcl.github.io/education/mphilphd/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/education/mphilphd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gioia Boschi awarded Bronze for Disordered Systems presentation at STEM for Britain</title>
+      <link>https://dissyskcl.github.io/news/boschi2021/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/news/boschi2021/</guid>
       <description></description>
     </item>
     
@@ -97,22 +137,6 @@
       <link>https://dissyskcl.github.io/publication/exelby-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://dissyskcl.github.io/publication/exelby-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gioia Boschi awarded Bronze for Disordered Systems presentation at STEM for Britain</title>
-      <link>https://dissyskcl.github.io/news/boschi2021/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/news/boschi2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random Matrix Theory and Networks Workshop</title>
-      <link>https://dissyskcl.github.io/news/rmtn2021/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/news/rmtn2021/</guid>
       <description></description>
     </item>
     
