@@ -30,25 +30,29 @@
     
     <item>
       <title>Random matrices: Theory and Practice</title>
-      <link>https://dissyskcl.github.io/talks/pier122017/</link>
+      <link>https://dissyskcl.github.io/lectures/pier122017/</link>
       <pubDate>Tue, 11 Apr 2017 09:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/pier122017/</guid>
-      <description>&lt;p&gt;A brief course on random matrix theory given at ICTP Trieste, from the theoretical foundations to applications to complex systems.
+      <guid>https://dissyskcl.github.io/lectures/pier122017/</guid>
+      <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
+A brief course on random matrix theory given at ICTP Trieste, from the theoretical foundations to applications to complex systems.
+&lt;/div&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Je4bU3g_QGk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;br&gt;
+
+&amp;nbsp;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/Ods4H8gOJlY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;br&gt;
+
+&amp;nbsp;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/te6V9OvtGww&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;/p&gt;
+
 </description>
     </item>
     
@@ -90,7 +94,7 @@ You can also take up to two modules from other &lt;strong&gt;University of Londo
   &lt;/div&gt;
   &lt;div class=&#34;card-body&#34;&gt;
     &lt;p class=&#34;card-text&#34;&gt;Take a look to the detailed structure of the module on KEATS.&lt;/p&gt;
-    &lt;a href=&#34;https://keats.kcl.ac.uk/mod/book/view.php?id=3259805&amp;chapterid=276617&#34; class=&#34;btn btn-primary&#34;&gt;Go!&lt;/a&gt;
+    &lt;a href=&#34;https://keats.kcl.ac.uk/mod/book/view.php?id=3259805&amp;chapterid=276617&#34; class=&#34;btn btn-primary&#34;&gt;Go to KEATS!&lt;/a&gt;
   &lt;/div&gt;
   &lt;div class=&#34;card-footer text-muted&#34;&gt;
   &lt;/div&gt;
@@ -248,6 +252,42 @@ You can also take up to two modules from other &lt;strong&gt;University of Londo
       <link>https://dissyskcl.github.io/talks/yan072020/</link>
       <pubDate>Fri, 24 Jul 2020 10:00:00 +0000</pubDate>
       <guid>https://dissyskcl.github.io/talks/yan072020/</guid>
+      <description>&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3OOK651z8jc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;em&gt;I will discuss some results, both old and more recent, on &amp;lsquo;non-orthogonality overlap matrix&amp;rsquo; between left and right eigenvectors of non-normal random matrices. Motivations range from understanding eigenvalue dynamics under matrix perturbations to relevance for random matrix models describing chaotic wave scattering.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generalized hydrodynamics</title>
+      <link>https://dissyskcl.github.io/lectures/ben112019/</link>
+      <pubDate>Thu, 21 Nov 2019 11:30:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/lectures/ben112019/</guid>
+      <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
+Hydrodynamics is a powerful theory for describing the emergent dynamics, away from equilibrium, at large scales in space and time. In recent years, the theory adapting hydrodynamics to integrability, called &#34;generalised hydrodynamics&#34; (GHD), has been developed. It turns out to be extremely general, applicable to quantum and classical chains, field theories and gases. These lectures will cover the fundamental concepts of this theory. Starting from an overview of hydrodynamics, I will describe the most important aspects of integrability, from which I will derive the basic GHD equations. I will emphasise the universality of GHD and the physical interpretation of its various ingredients, and if time allows, explain some of its applications and more advanced concepts.  Only very basic knowledge of hydrodynamics and integrability is assumed, and I will keep everything as non-technical as possible.
+&lt;/div&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/f7LYDyqGpW4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&amp;nbsp;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/f7LYDyqGpW4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Diffusion and superdiffusion from hydrodynamic projection</title>
+      <link>https://dissyskcl.github.io/talks/ben112019/</link>
+      <pubDate>Tue, 05 Nov 2019 14:30:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/talks/ben112019/</guid>
       <description>&lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/3OOK651z8jc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
