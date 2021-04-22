@@ -5,7 +5,7 @@
     <link>https://dissyskcl.github.io/talks/</link>
       <atom:link href="https://dissyskcl.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dissyskcl.github.io/media/icon_hu7f2426718c726843532e5bf53de698ef_1775364_512x512_fill_lanczos_center_2.png</url>
       <title>Recent Talks</title>
@@ -25,6 +25,14 @@
       <link>https://dissyskcl.github.io/talks/statistics/</link>
       <pubDate>Wed, 07 Apr 2021 10:00:00 +0000</pubDate>
       <guid>https://dissyskcl.github.io/talks/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On eigenvector statistics in non-normal random matrices</title>
+      <link>https://dissyskcl.github.io/talks/izaak052021/</link>
+      <pubDate>Thu, 15 Apr 2021 15:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/talks/izaak052021/</guid>
       <description></description>
     </item>
     
