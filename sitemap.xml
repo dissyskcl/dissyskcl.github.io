@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dissyskcl.github.io/talks/canes/</loc>
+    <loc>https://dissyskcl.github.io/education/canes/</loc>
     <lastmod>2021-04-07T10:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dissyskcl.github.io/talks/statistics/</loc>
@@ -10,6 +10,9 @@
   </url><url>
     <loc>https://dissyskcl.github.io/project/ql/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dissyskcl.github.io/alumni/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dissyskcl.github.io/tag/graph-theory/</loc>
     <lastmod>2021-04-18T00:00:00+00:00</lastmod>
