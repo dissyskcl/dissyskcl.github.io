@@ -29,11 +29,25 @@
     </item>
     
     <item>
-      <title>Mean field model of interacting quasi-localized excitations in glasses</title>
-      <link>https://dissyskcl.github.io/talks/zamponi042021/</link>
-      <pubDate>Wed, 07 Apr 2021 10:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/zamponi042021/</guid>
-      <description></description>
+      <title>The Disordered Systems Group Journal Club</title>
+      <link>https://dissyskcl.github.io/talks/dsjournalclub/</link>
+      <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/talks/dsjournalclub/</guid>
+      <description>&lt;script defer src=&#34;https://dissyskcl.github.io/static/fontawesome/fontawesome-all.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;23 June 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Andrea De Luca&lt;/strong&gt; (University of Cergy-Pontoise), &lt;em&gt;Spectral statistics in the thermodynamic limit of extended many-body quantum systems&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;3 June 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Carmen Cabrera Arnau&lt;/strong&gt; (UCL), &lt;em&gt;Quantifying the impact of population size in urban areas&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;3 June 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Berislav Buča&lt;/strong&gt; (University of Oxford), &lt;em&gt;Complex dynamics of non-stationary quantum many-body systems&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;2 June 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Joseph Durnin&lt;/strong&gt; (KCL), &lt;em&gt;Free energy fluxes and the Kubo–Martin–Schwinger relation&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;28 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Pierfrancesco Urbani&lt;/strong&gt; (IPhT, CNRS, Université Paris-Saclay).&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;14 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Fabian Aguirre Lopez&lt;/strong&gt; (KCL), &lt;em&gt;Imaginary replicas for random loopy graphs&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;31 March 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Francesco Zamponi&lt;/strong&gt; (ENS Paris), &lt;em&gt;Mean field model of interacting quasi-localized excitations in glasses&lt;/em&gt;. &lt;a class=&#34;btn btn-outline-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=H_GvgActloM&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;18 March 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Andrea Mambuca&lt;/strong&gt; (KCL), &lt;em&gt;New results on the stability of large antagonistic systems on complex networks: a random matrix approach&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;8 March 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Alexander Mozeika&lt;/strong&gt; (LIMS), &lt;em&gt;Exact results on high-dimensional linear regression via statistical physics&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;1 March 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Jose Moran&lt;/strong&gt; (University of Oxford), &lt;em&gt;Memory and herding in agent based models&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;24 February 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Bruno Loureiro&lt;/strong&gt; (EPFL), &lt;em&gt;Exactly solvable models for high-dimensional machine learning problems&lt;/em&gt;. &lt;a class=&#34;btn btn-outline-primary btn-sm&#34; href=&#34;https://arxiv.org/abs/2102.08127&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fas fa-file&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary btn-sm&#34; href=&#34;https://arxiv.org/abs/2006.14709.08127&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fas fa-file&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.09339&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fas fa-file&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;17 February 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Nick Baskerville&lt;/strong&gt; (University of Bristol), &lt;em&gt;Random matrix theory and the loss surfaces of neural networks&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;15 February 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Benjamin Doyon&lt;/strong&gt; (KCL), &lt;em&gt;Bounds on diffusion and superdiffusion from thermodynamics&lt;/em&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -63,6 +77,14 @@
       <link>https://dissyskcl.github.io/talks/ben052019/</link>
       <pubDate>Mon, 13 May 2019 14:00:00 +0000</pubDate>
       <guid>https://dissyskcl.github.io/talks/ben052019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Random Walk Perspective of Search and Network Exploration</title>
+      <link>https://dissyskcl.github.io/talks/reimer052020/</link>
+      <pubDate>Mon, 29 Apr 2019 10:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/talks/reimer052020/</guid>
       <description></description>
     </item>
     
