@@ -13,11 +13,18 @@
     </image>
     
     <item>
-      <title>The Statistics seminar series</title>
-      <link>https://dissyskcl.github.io/talks/statistics/</link>
-      <pubDate>Wed, 07 Apr 2021 10:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/statistics/</guid>
-      <description></description>
+      <title>The Group Research</title>
+      <link>https://dissyskcl.github.io/talks/dstalks/</link>
+      <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/talks/dstalks/</guid>
+      <description>&lt;script defer src=&#34;https://dissyskcl.github.io/static/fontawesome/fontawesome-all.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=etZI4oHAcLo&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;15 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Izaak Neri&lt;/strong&gt;, &lt;em&gt;Dissipation bounds the moments of first-passage times of dissipative currents&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.esi.ac.at/events/e412/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Interdisciplinary Challenges in Nonequilibrium Physics&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=LH9JitDAhF4&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;1 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Reimer Kühn&lt;/strong&gt;, &lt;em&gt;Spectra of Large Random Stochastic Matrices and relaxation in complex systems&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.ias.edu/math/wrmrs/agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Workshop on Random Matrices and Random Systems&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=3OOK651z8jc&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;24 July 2020&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Yan Fyodorov&lt;/strong&gt;, &lt;em&gt;On eigenvector statistics in non-normal random matrices&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://web-eur.cvent.com/event/44bdce4a-9414-4c7f-928f-4ea3e4985835/summary?rp=00000000-0000-0000-0000-000000000000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;CMI-HIMR Integrable Probability Online Summer School&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=tCr0YekLvXg&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;5 November 2019&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Benjamin Doyon&lt;/strong&gt;, &lt;em&gt;Diffusion and superdiffusion from hydrodynamic projection&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.icts.res.in/program/hydrodynamics2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Thermalization, many body localization and hydrodynamics&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=nRN080X85Ec&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;span style=&#34;color:Maroon&#34;&gt; &lt;strong&gt;13 May 2019&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Benjamin Doyon&lt;/strong&gt;, &lt;em&gt;Hydrodynamics of quantum and classical integrable systems, correlations and fluctuations&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://iip.ufrn.br/eventsdetail.php?inf=%3D%3DQTUFFM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Emergent hydrodynamics in low dimensional quantum systems&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=bcdm_it5yfM&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;span style=&#34;color:Maroon&#34;&gt; &lt;strong&gt;1 July 2014&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Reimer Kühn&lt;/strong&gt;, &lt;em&gt;A Random Walk Perspective of Search and Network Exploration&lt;/em&gt;. Talk given at the &lt;a href=&#34;cs.if.uj.edu.pl/matrix&#34;&gt;&lt;em&gt;Random matrix theory: Applications in the information era&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,18 +50,11 @@
     </item>
     
     <item>
-      <title>The Group Research</title>
-      <link>https://dissyskcl.github.io/talks/dstalks/</link>
-      <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/dstalks/</guid>
-      <description>&lt;script defer src=&#34;https://dissyskcl.github.io/static/fontawesome/fontawesome-all.js&#34;&gt;&lt;/script&gt;
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=etZI4oHAcLo&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;15 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Izaak Neri&lt;/strong&gt;, &lt;em&gt;Dissipation bounds the moments of first-passage times of dissipative currents&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.esi.ac.at/events/e412/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Interdisciplinary Challenges in Nonequilibrium Physics&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=LH9JitDAhF4&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;1 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Reimer Kühn&lt;/strong&gt;, &lt;em&gt;Spectra of Large Random Stochastic Matrices and relaxation in complex systems&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.ias.edu/math/wrmrs/agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Workshop on Random Matrices and Random Systems&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=3OOK651z8jc&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;24 July 2020&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Yan Fyodorov&lt;/strong&gt;, &lt;em&gt;On eigenvector statistics in non-normal random matrices&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://web-eur.cvent.com/event/44bdce4a-9414-4c7f-928f-4ea3e4985835/summary?rp=00000000-0000-0000-0000-000000000000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;CMI-HIMR Integrable Probability Online Summer School&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=tCr0YekLvXg&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;5 November 2019&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Benjamin Doyon&lt;/strong&gt;, &lt;em&gt;Diffusion and superdiffusion from hydrodynamic projection&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.icts.res.in/program/hydrodynamics2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Thermalization, many body localization and hydrodynamics&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=nRN080X85Ec&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;span style=&#34;color:Maroon&#34;&gt; &lt;strong&gt;13 May 2019&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Benjamin Doyon&lt;/strong&gt;, &lt;em&gt;Hydrodynamics of quantum and classical integrable systems, correlations and fluctuations&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://iip.ufrn.br/eventsdetail.php?inf=%3D%3DQTUFFM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Emergent hydrodynamics in low dimensional quantum systems&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=bcdm_it5yfM&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;span style=&#34;color:Maroon&#34;&gt; &lt;strong&gt;1 July 2014&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Reimer Kühn&lt;/strong&gt;, &lt;em&gt;A Random Walk Perspective of Search and Network Exploration&lt;/em&gt;. Talk given at the &lt;a href=&#34;cs.if.uj.edu.pl/matrix&#34;&gt;&lt;em&gt;Random matrix theory: Applications in the information era&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
-</description>
+      <title>The Statistics seminar series</title>
+      <link>https://dissyskcl.github.io/talks/statistics/</link>
+      <pubDate>Wed, 07 Apr 2021 10:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/talks/statistics/</guid>
+      <description></description>
     </item>
     
   </channel>
