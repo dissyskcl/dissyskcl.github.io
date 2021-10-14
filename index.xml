@@ -160,14 +160,6 @@ You can also take up to two modules from other &lt;strong&gt;University of Londo
     </item>
     
     <item>
-      <title>Dissipation bounds the moments of first-passage times of dissipative currents</title>
-      <link>https://dissyskcl.github.io/talks/izaak052021/</link>
-      <pubDate>Thu, 15 Apr 2021 15:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/izaak052021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The planted $k$-factor problem</title>
       <link>https://dissyskcl.github.io/publication/sicuro2021/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
@@ -227,13 +219,28 @@ You can also take up to two modules from other &lt;strong&gt;University of Londo
 &lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;2 June 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Joseph Durnin&lt;/strong&gt; (KCL), &lt;em&gt;Free energy fluxes and the Kubo–Martin–Schwinger relation&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;28 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Pierfrancesco Urbani&lt;/strong&gt; (IPhT, CNRS, Université Paris-Saclay).&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;14 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Fabian Aguirre Lopez&lt;/strong&gt; (KCL), &lt;em&gt;Imaginary replicas for random loopy graphs&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;31 March 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Francesco Zamponi&lt;/strong&gt; (ENS Paris), &lt;em&gt;Mean field model of interacting quasi-localized excitations in glasses&lt;/em&gt;. &lt;a class=&#34;btn btn-outline-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=H_GvgActloM&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=H_GvgActloM&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;span style=&#34;color:Maroon&#34;&gt; &lt;strong&gt;31 March 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Francesco Zamponi&lt;/strong&gt; (ENS Paris), &lt;em&gt;Mean field model of interacting quasi-localized excitations in glasses&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;18 March 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Andrea Mambuca&lt;/strong&gt; (KCL), &lt;em&gt;New results on the stability of large antagonistic systems on complex networks: a random matrix approach&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;8 March 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Alexander Mozeika&lt;/strong&gt; (LIMS), &lt;em&gt;Exact results on high-dimensional linear regression via statistical physics&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;1 March 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Jose Moran&lt;/strong&gt; (University of Oxford), &lt;em&gt;Memory and herding in agent based models&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;24 February 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Bruno Loureiro&lt;/strong&gt; (EPFL), &lt;em&gt;Exactly solvable models for high-dimensional machine learning problems&lt;/em&gt;. &lt;a class=&#34;btn btn-outline-primary btn-sm&#34; href=&#34;https://arxiv.org/abs/2102.08127&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fas fa-file&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary btn-sm&#34; href=&#34;https://arxiv.org/abs/2006.14709.08127&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fas fa-file&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;a class=&#34;btn btn-outline-primary btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.09339&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fas fa-file&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;24 February 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Bruno Loureiro&lt;/strong&gt; (EPFL), &lt;em&gt;Exactly solvable models for high-dimensional machine learning problems&lt;/em&gt;. &lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://arxiv.org/abs/2102.08127&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fas fa-file&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://arxiv.org/abs/2006.14709.08127&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fas fa-file&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://arxiv.org/abs/2002.09339&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fas fa-file&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;17 February 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Nick Baskerville&lt;/strong&gt; (University of Bristol), &lt;em&gt;Random matrix theory and the loss surfaces of neural networks&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;15 February 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Benjamin Doyon&lt;/strong&gt; (KCL), &lt;em&gt;Bounds on diffusion and superdiffusion from thermodynamics&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Group Research</title>
+      <link>https://dissyskcl.github.io/talks/dstalks/</link>
+      <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/talks/dstalks/</guid>
+      <description>&lt;script defer src=&#34;https://dissyskcl.github.io/static/fontawesome/fontawesome-all.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=etZI4oHAcLo&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;15 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Izaak Neri&lt;/strong&gt;, &lt;em&gt;Dissipation bounds the moments of first-passage times of dissipative currents&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.esi.ac.at/events/e412/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Interdisciplinary Challenges in Nonequilibrium Physics&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=LH9JitDAhF4&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;1 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Reimer Kühn&lt;/strong&gt;, &lt;em&gt;Spectra of Large Random Stochastic Matrices and relaxation in complex systems&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.ias.edu/math/wrmrs/agenda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Workshop on Random Matrices and Random Systems&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=3OOK651z8jc&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;24 July 2020&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Yan Fyodorov&lt;/strong&gt;, &lt;em&gt;On eigenvector statistics in non-normal random matrices&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://web-eur.cvent.com/event/44bdce4a-9414-4c7f-928f-4ea3e4985835/summary?rp=00000000-0000-0000-0000-000000000000&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;CMI-HIMR Integrable Probability Online Summer School&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=tCr0YekLvXg&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;5 November 2019&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Benjamin Doyon&lt;/strong&gt;, &lt;em&gt;Diffusion and superdiffusion from hydrodynamic projection&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.icts.res.in/program/hydrodynamics2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Thermalization, many body localization and hydrodynamics&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=nRN080X85Ec&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;span style=&#34;color:Maroon&#34;&gt; &lt;strong&gt;13 May 2019&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Benjamin Doyon&lt;/strong&gt;, &lt;em&gt;Hydrodynamics of quantum and classical integrable systems, correlations and fluctuations&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://iip.ufrn.br/eventsdetail.php?inf=%3D%3DQTUFFM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Emergent hydrodynamics in low dimensional quantum systems&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=bcdm_it5yfM&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt;&lt;span style=&#34;color:Maroon&#34;&gt; &lt;strong&gt;1 July 2014&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Reimer Kühn&lt;/strong&gt;, &lt;em&gt;A Random Walk Perspective of Search and Network Exploration&lt;/em&gt;. Talk given at the &lt;a href=&#34;cs.if.uj.edu.pl/matrix&#34;&gt;&lt;em&gt;Random matrix theory: Applications in the information era&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
 </description>
     </item>
     
@@ -278,20 +285,6 @@ You can also take up to two modules from other &lt;strong&gt;University of Londo
     </item>
     
     <item>
-      <title>On eigenvector statistics in non-normal random matrices</title>
-      <link>https://dissyskcl.github.io/talks/yan072020/</link>
-      <pubDate>Fri, 24 Jul 2020 10:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/yan072020/</guid>
-      <description>&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/3OOK651z8jc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;em&gt;I will discuss some results, both old and more recent, on &amp;lsquo;non-orthogonality overlap matrix&amp;rsquo; between left and right eigenvectors of non-normal random matrices. Motivations range from understanding eigenvalue dynamics under matrix perturbations to relevance for random matrix models describing chaotic wave scattering.&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Generalized hydrodynamics</title>
       <link>https://dissyskcl.github.io/lectures/ben112019/</link>
       <pubDate>Thu, 21 Nov 2019 11:30:00 +0000</pubDate>
@@ -311,30 +304,6 @@ Hydrodynamics is a powerful theory for describing the emergent dynamics, away fr
 &lt;/div&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>Diffusion and superdiffusion from hydrodynamic projection</title>
-      <link>https://dissyskcl.github.io/talks/ben112019/</link>
-      <pubDate>Tue, 05 Nov 2019 14:30:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/ben112019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hydrodynamics of quantum and classical integrable systems, correlations and fluctuations</title>
-      <link>https://dissyskcl.github.io/talks/ben052019/</link>
-      <pubDate>Mon, 13 May 2019 14:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/ben052019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Random Walk Perspective of Search and Network Exploration</title>
-      <link>https://dissyskcl.github.io/talks/reimer052020/</link>
-      <pubDate>Mon, 29 Apr 2019 10:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/reimer052020/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -472,14 +441,6 @@ A brief course on random matrix theory given at ICTP Trieste, from the theoretic
       <guid>https://dissyskcl.github.io/project/ga/</guid>
       <description>&lt;p&gt;Prof. Reimer Kühn has provided the first formulation of a microscopic model to describe the emergence of the universal glassy low-temperature anomalies, including an understanding of the origin of the mysterious so-called quantitative universality &amp;ndash; a problem that had been open since its formulation in the late 80s. He has also given the first proper formulation and analysis of the role of interactions (networks of functional dependencies) on operational and credit risk, including recently an analysis of the influence of credit derivatives on systemic risk.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Spectra of Large Random Stochastic Matrices and relaxation in complex systems</title>
-      <link>https://dissyskcl.github.io/talks/reimer052019/</link>
-      <pubDate>Tue, 01 Apr 2014 10:00:00 +0000</pubDate>
-      <guid>https://dissyskcl.github.io/talks/reimer052019/</guid>
-      <description></description>
     </item>
     
     <item>
