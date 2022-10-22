@@ -5,7 +5,7 @@
     <link>https://dissyskcl.github.io/</link>
       <atom:link href="https://dissyskcl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>KCL Disordered Systems</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dissyskcl.github.io/media/icon_hu7f2426718c726843532e5bf53de698ef_1775364_512x512_fill_lanczos_center_3.png</url>
       <title>KCL Disordered Systems</title>
@@ -75,6 +75,38 @@
       <link>https://dissyskcl.github.io/project/ql/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://dissyskcl.github.io/project/ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Facets of Statistical Field Theory</title>
+      <link>https://dissyskcl.github.io/news/caracciolo2022/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/news/caracciolo2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Matrices and Random Landscapes</title>
+      <link>https://dissyskcl.github.io/news/fyodorov2022/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/news/fyodorov2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MECO47</title>
+      <link>https://dissyskcl.github.io/news/meco47/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/news/meco47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>73rd British Mathematical Colloquium</title>
+      <link>https://dissyskcl.github.io/news/bmc2022/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/news/bmc2022/</guid>
       <description></description>
     </item>
     
