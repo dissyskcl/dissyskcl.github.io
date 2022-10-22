@@ -26,6 +26,7 @@
       <pubDate>Fri, 01 Jan 2021 10:00:00 +0000</pubDate>
       <guid>https://dissyskcl.github.io/talks/dstalks/</guid>
       <description>&lt;script defer src=&#34;https://dissyskcl.github.io/static/fontawesome/fontawesome-all.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=nwaQxr3ymwQ&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;8 September 2022&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Benjamin Doyon&lt;/strong&gt;, &lt;em&gt;In every finite-range quantum spinchain linearised Euler hydrodynamic equations hold&lt;/em&gt;. Talk given at the &lt;a href=&#34;http://www.crm.umontreal.ca/2022/Conformal22/index.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Théorie des champs conforme et systèmes quantiques à plusieurs corps&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=6E8pvgu8ICY&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;23 June 2022&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Yan Fyodorov&lt;/strong&gt;, &lt;em&gt;A few results and conjectures on some product-ratio correlation functions of characteristic polynomials of β-Hermite ensembles&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.ias.edu/math/events/50yntrmt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;50 Years of Number Theory and Random Matrix Theory&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=6E8pvgu8ICY&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;14 June 2022&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Izaak Neri&lt;/strong&gt;, &lt;em&gt;Thermodynamic Trade-off Relations Involving First-Passage Times&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.icts.res.in/discussion-meeting/strd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Stochastic thermodynamics: recent developments&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;btn btn-primary btn-sm&#34; href=&#34;https://www.youtube.com/watch?v=etZI4oHAcLo&#34; role=&#34;button&#34;&gt; &lt;i class=&#34;fab fa-youtube&#34;&gt;&lt;/i&gt; &lt;/a&gt; &lt;span style=&#34;color:Maroon&#34;&gt;&lt;strong&gt;15 April 2021&lt;/strong&gt;&lt;/span&gt;. &lt;strong&gt;Izaak Neri&lt;/strong&gt;, &lt;em&gt;Dissipation bounds the moments of first-passage times of dissipative currents&lt;/em&gt;. Talk given at the &lt;a href=&#34;https://www.esi.ac.at/events/e412/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Interdisciplinary Challenges in Nonequilibrium Physics&lt;/em&gt;&lt;/a&gt; conference.&lt;/p&gt;
@@ -101,6 +102,40 @@
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://dissyskcl.github.io/news/caracciolo2022/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal field theory and quantum many-body physics</title>
+      <link>https://dissyskcl.github.io/lectures/ben092022/</link>
+      <pubDate>Tue, 06 Sep 2022 11:30:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/lectures/ben092022/</guid>
+      <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
+Finding general principles that go beyond the well developed thermodynamic theory of equilibrium is one of the most important challenges of current research. As thermodynamics is a theory for extensive quantities such as the energy, and its fluctuations in space, one looks for a parallel theory that asks about quantities that are spatially transported, say from left to right, over time: currents and their fluctuations. In this series of lectures, I will develop a number of topics to answer some of these questions. I will restrict to the context of two-dimensional spacetime for simplicity, going over the basic ideas and exact results in conformal field theory (CFT) and integrable systems. Topics covered will be: (1) Nonequilibrium steady states in many-body quantum systems that admit ballistic transport. (2) Fluctuations of transported quantities at large times using the largedeviation framework. (3) The relation between static and dynamic fluctuations, and the entanglement entropy and its growth after quenches. As time permits, I will overview hydrodynamic techniques, twist fields techniques, and, in CFT, conformal welding techniques for large-deviation functions.
+&lt;/div&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/OYFsdxmcrSY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&amp;nbsp;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/M5482d0WZ8Y&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&amp;nbsp;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/LDR9EsZSzio&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&amp;nbsp;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/USqrpUifJZA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
     <item>
