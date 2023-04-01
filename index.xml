@@ -396,10 +396,27 @@ You can also take up to two modules from other &lt;strong&gt;University of Londo
 &lt;p&gt;The Disordered Systems group is constantly engaged in the supervision of PhD candidates in Mathematics and Applied Mathematics within our Department. All applications are processed through the King&amp;rsquo;s appplication system, accessible from the link below.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.kcl.ac.uk/study-legacy/postgraduate/research-courses/applied-mathematics-research-mphil-phd&#34; class=&#34;btn btn-primary btn-lg btn-block active&#34; role=&#34;button&#34; aria-pressed=&#34;true&#34;&gt;&lt;strong&gt;King&amp;rsquo;s application system&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;phd-projects&#34;&gt;PhD projects&lt;/h2&gt;
-&lt;div class=&#34;alert alert-info&#34;&gt;
+&lt;div class=&#34;alert alert-info&#34; id=&#34;#ivan&#34;&gt;
+&lt;a name=&#34;ivan&#34;&gt;&lt;/a&gt;
+  &lt;i class=&#34;fa-solid fa-diagram-project&#34;&gt;&lt;/i&gt;
+  &lt;h2 style=&#34;font-size:2vw&#34;&gt; The mathematics of adaptive, stable and robust Artificial Intelligence&lt;/h2&gt;
+ &lt;div style=&#34;text-align: justify&#34;&gt;
+ &lt;strong&gt; Supervisor: &lt;/strong&gt;
+ &lt;a href=&#34;mailto:ivan.tyukin@kcl.ac.uk&#34; class=&#34;card-text&#34;&gt; &lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt; Prof Ivan Tyukin&lt;/a&gt;
+&lt;p&gt;&lt;strong&gt; Status: &lt;/strong&gt; Open.&lt;/p&gt;
+&lt;p&gt;The studentship covers tuition fees for &lt;a href=&#34;https://www.ukcisa.org.uk/Information--Advice/Fees-and-Money/England-HE-fee-status#layer-6082&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Home/UK students&lt;/strong&gt;&lt;/a&gt; and a stipend of £19,668 per annum. The funding is available for 3.5 years. Overseas applicants will be considered but they must demonstrate the capability to fund the difference between International full-time fees (currently £28,260 per annum for 2023/2024 academic year) and Home/UK fees.&lt;/p&gt;
+&lt;hr class=&#34;rounded&#34;&gt;
+&lt;strong&gt; Description &amp;mdash; &lt;/strong&gt; Recent years have seen explosive growth in the applications of Artificial Intelligence (AI). Notwithstanding significant successes of the new technology, empirical evidence points to numerous examples of errors in the decisions of state-of-the-art AI systems. Current theoretical works confirm that modern design practices and classical mathematical frameworks supporting these could suffer from various fundamental shortcomings including the typicality of adversarial attacks, susceptibility to backdoors and stealth attacks, instabilities, and hallucinations. At the same time, there is a plethora of under-explored and seemingly controversial phenomena, such as learning from scarce yet high-dimensional information, which has been broadly observed experimentally in large-scale AI systems but whose complete mathematical understanding is yet to be developed. Other factors hindering the performance of current AI systems include the need to adapt to concept drifts and unforeseen changes in operational conditions.
+&lt;p&gt;The project aims to explore and systematically assess major causes of AI errors and instabilities and develop appropriate mathematical foundations enabling the creation of stable and robust Artificial Intelligence capable of dealing with errors and concept drifts. The successful candidate will work alongside a team of early career researchers funded by the UKRI Turing AI Acceleration Fellowship (EP/V025295/2) and will benefit from the team’s established relationships with industrial partners, academic networks (Turing AI Fellows, Trustworthy Autonomous Systems Node in Verifiability EP/V026801/2), and other collaborators in academia, healthcare, defence &amp;amp; security.&lt;/p&gt;
+&lt;hr class=&#34;rounded&#34;&gt;
+&lt;p&gt;&lt;strong&gt; How to apply — &lt;/strong&gt; To state your interest, please contact directly &lt;a href=&#34;mailto:ivan.tyukin@kcl.ac.uk&#34; class=&#34;card-text&#34;&gt; &lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt; &lt;strong&gt;Prof Ivan Tyukin&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-info&#34; id=&#34;#paola&#34;&gt;
 &lt;a name=&#34;paola&#34;&gt;&lt;/a&gt;
   &lt;i class=&#34;fa-solid fa-diagram-project&#34;&gt;&lt;/i&gt;
-  &lt;strong&gt; Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems&lt;/strong&gt;
+  &lt;h2 style=&#34;font-size:2vw&#34;&gt; 
+  Entanglement and universality in inhomogeneous and out-of-equilibrium many body quantum systems &lt;/h2&gt;
  &lt;div style=&#34;text-align: justify&#34;&gt;
  &lt;strong&gt; Supervisors: &lt;/strong&gt;
  &lt;a href=&#34;mailto:paola.ruggiero@kcl.ac.uk&#34; class=&#34;card-text&#34;&gt; &lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt; Dr Paola Ruggiero&lt;/a&gt; and 
