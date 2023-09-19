@@ -5,12 +5,57 @@
     <link>https://dissyskcl.github.io/lectures/</link>
       <atom:link href="https://dissyskcl.github.io/lectures/index.xml" rel="self" type="application/rss+xml" />
     <description>Lectures</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Sep 2022 11:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dissyskcl.github.io/media/icon_hu7f2426718c726843532e5bf53de698ef_1775364_512x512_fill_lanczos_center_3.png</url>
       <title>Lectures</title>
       <link>https://dissyskcl.github.io/lectures/</link>
     </image>
+    
+    <item>
+      <title>Generalised Hydrodynamics</title>
+      <link>https://dissyskcl.github.io/lectures/bonnemain2023/</link>
+      <pubDate>Tue, 19 Sep 2023 09:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/lectures/bonnemain2023/</guid>
+      <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
+&lt;small&gt; Monday 12:00 — 14:00, Room S4.23.&lt;br&gt;
+&lt;b&gt;Calendar&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;6th of November, 2023&lt;/li&gt;
+&lt;li&gt;11th of December, 2023&lt;/li&gt;
+&lt;li&gt;22nd of January, 2024&lt;/li&gt;
+&lt;li&gt;29th of January, 2024&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/small&gt;
+&lt;/div&gt;
+&lt;p style=&#39;text-align: justify;&#39;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantum Entanglement in Disordered Systems</title>
+      <link>https://dissyskcl.github.io/lectures/pastur2023/</link>
+      <pubDate>Tue, 19 Sep 2023 09:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/lectures/pastur2023/</guid>
+      <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
+&lt;small&gt; Monday 12:00 — 14:00, Room S4.23&lt;br&gt;
+&lt;b&gt; Calendar &lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;2nd of October, 2023
+&lt;/small&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;p style=&#39;text-align: justify;&#39;&gt;
+Entanglement is a fundamental property of quantum systems manifesting strong nonlocal and non-classical correlations in them. In its simplest form entanglement causes two quantum particles to share a common pure state in which the particle do not have pure states of their own. A widely used setting of entanglement studies deals with bipartite systems, where one party (&#34;central&#34;) is that we are interested in and the second (&#34;environment&#34;) is connected with the central party in a certain way and affects its properties, mostly destroying its quantum correlations. The results obtained so far in this field concern mainly deterministic (ideal) systems. On the other hand, modern physics deals with a wide range of problems, where (non-quantum) randomness is indispensable. These are the cases when one has to deal either with non-ideal systems or with typical (generic) systems. &lt;br&gt; The course focuses on two problems. The first is the time evolution of the entanglement characteristics (quantifiers) of two qubits embedded into a random environment modeled by random matrices of large size. The second problem is on the spatial asymptotic behaviour of the entanglement entropy of large blocks of the macroscopic (extended) system of free disordered fermions. &lt;br&gt; Here is the outline of the course.
+&lt;ul&gt;
+&lt;li&gt;Introduction: basic facts of quantum mechanics, bipartite systems, reduced density matrix, entanglement. A toy model of black hole radiation.&lt;/li&gt;
+&lt;li&gt;Dynamics of one and two qubits in random environment: general setting, entanglement quantifiers, models of environment, basic approximations, random matrix environment (analytical and numerical results).&lt;/li&gt;
+&lt;li&gt;Entanglement in extended systems: setting and basic facts for translation invariant systems.&lt;/li&gt;
+&lt;li&gt;Entanglement for free disordered fermions: Anderson localization, area law in the mean and with probability 1 and its violations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Conformal field theory and quantum many-body physics</title>
