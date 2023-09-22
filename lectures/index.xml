@@ -5,12 +5,34 @@
     <link>https://dissyskcl.github.io/lectures/</link>
       <atom:link href="https://dissyskcl.github.io/lectures/index.xml" rel="self" type="application/rss+xml" />
     <description>Lectures</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dissyskcl.github.io/media/icon_hu7f2426718c726843532e5bf53de698ef_1775364_512x512_fill_lanczos_center_3.png</url>
       <title>Lectures</title>
       <link>https://dissyskcl.github.io/lectures/</link>
     </image>
+    
+    <item>
+      <title>Generative AI and Diffusion Models: a Statistical Physics Analysis</title>
+      <link>https://dissyskcl.github.io/lectures/biroli2023/</link>
+      <pubDate>Wed, 20 Sep 2023 09:00:00 +0000</pubDate>
+      <guid>https://dissyskcl.github.io/lectures/biroli2023/</guid>
+      <description>&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
+Classes by &lt;b&gt; Giulio Biroli&lt;/b&gt; professor at the École Normale Supérieure de Paris.&lt;br&gt;
+&lt;small&gt; Monday 12:00 — 14:00, Room S4.23.&lt;br&gt;
+&lt;b&gt;Calendar&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;4th of December, 2023&lt;/li&gt;
+&lt;li&gt;6th of December, 2023&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/small&gt;
+&lt;/div&gt;
+&lt;p style=&#39;text-align: justify;&#39;&gt;
+The mini-course will consist of two parts.
+&lt;p&gt;&lt;b&gt; Part I &lt;/b&gt; Introduction and theoretical basis: how time-reversing Langevin dynamics one can create images from white noise.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Part II &lt;/b&gt; A statistical physics analysis using random matrix theory and mean-field methods.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Generalised Hydrodynamics</title>
